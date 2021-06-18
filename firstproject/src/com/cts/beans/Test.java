@@ -7,4 +7,8 @@ public class Test
 	{
 		return new Date();
 	}
+	public void m1()
+	{
+		System.out.println("Test.m1()");
+	}
 }
